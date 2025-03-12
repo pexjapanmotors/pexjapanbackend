@@ -3,7 +3,7 @@
       { "src": "sarver.js", "use": "@vercel/node" }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "index.js" }
+      { "src": "/(.*)", "dest": "sarver.js" }
     ]
   }
   
